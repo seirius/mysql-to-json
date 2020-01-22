@@ -1,0 +1,20 @@
+{
+  "name": "mysql-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "command-line-args": "^5.1.1",
+    "mysql": "^2.18.0"
+  },
+  "bin": {
+    "mtj": "index.js"
+  }
+}
