@@ -16,6 +16,6 @@ If you want to output to a custom directory use `--output`.
 
 In case you just want to print to the console, add `--print`.
 
-If you want to limit the query to a fixed number of results, user `--limit number_of_results`.
+If you want to limit the query to a fixed number of results, use `--limit number_of_results`.
 
 For more information use `mtj --help`.
